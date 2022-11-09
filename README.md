@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Currently employed at Kearney & Company to work on Data Analytics and Robotic Process Automation
+
+- In my spare time, I'm learning THREE.JS and designing projects around WebGL 
