@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 - Currently employed at Kearney & Company to work on Data Analytics and Robotics Process Automation
 
-- In my spare time, I'm learning THREE.JS and designing projects around WebGL 
+- In my spare time, I'm learning THREE.JS and designing projects around WebGL
+
+https://tree.nathanfriend.io/?s=(%27options!(%27fancy7~fullPath!false~trailingSlash7~rootDot7)~E(%27E%27IProd8ConsoliBed.ipynb8Runner.ipynb2api_key.csv2BaH_tempH_archiveH3H*3-runType-BaType03-full-prod03-append-dev0gen60fJawards0904Gen654FJAwards5495%27)~version!%271%27)*%20%200-yyyy-mm-dd5H*2%5Cn*3*metaBa4HmostRecent5.txt6eral7!true82IGSA_9findingsBdatEsource!H2*IFAC_Jed6_%01JIHEB987654320*
