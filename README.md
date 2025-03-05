@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently employed at Kearney & Company to work on Data Analytics and Robotics Process Automation
+- Currently employed at Kearney & Company as Senior Analyst to work on Data Engineering in the Advana Project and Process Automation
 
 - In my spare time, I'm learning THREE.JS and designing projects around WebGL
 
